@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Prathyusha👋
 Data Engineer | Finance BI Analyst | MSc Data Science and Analytics
 
 ## About Me
@@ -30,7 +30,11 @@ Data Engineer | Finance BI Analyst | MSc Data Science and Analytics
 - Expanding Cloud knowledge
 - Preparing for Data Engineer opportunities in Germany
 
+## Featured Projects
 
+- Retail Sales ETL Pipeline (In Progress)
+
+More projects coming soon...
 
 
 
